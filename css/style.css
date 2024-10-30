@@ -1,0 +1,5 @@
+﻿form#newsletter input{width:100%; border:1px solid #000; color:#000; font-size:14px; background:transparent; border-radius:0px; padding:10px;display:inline-block;}
+form#newsletter .newsletter-submit-form{background:#000; color:#fff; font-size:14px; text-transform:uppercase; padding:10px 15px; text-decoration:none; font-weight:bold; letter-spacing:1px; display:inline-block; margin:15px 0px 0px;border:1px solid #000; box-shadow:none; width:auto;}
+form#newsletter .newsletter-submit-form:hover{background:transparent; color:#000;}
+
+.newsletter-email-main span#email_error{margin:10px 0px 0px; font-size:20px;}

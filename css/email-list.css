@@ -1,0 +1,4 @@
+﻿.email-listing{padding:50px 50px 50px 30px;}
+.email-listing table.table.dataTable{margin:0 auto 20px;}
+.email-listing .dataTables_length ,.email-listing .dataTables_filter{margin-bottom:20px;}
+.btn-export {background: #0073aa;color: #fff !important; float: right;font-size: 18px;font-weight: 600; margin: 0 0 10px;padding: 5px 10px 9px; text-decoration: none; text-transform: capitalize; border:none; cursor:pointer;}
